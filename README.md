@@ -1,18 +1,15 @@
 # Project_test1
-<img width="191" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/d54c1465-da37-4ddc-9415-0a7b45d51136">
-<img width="191" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/42258ccc-a2d1-477f-8b94-f9f5b296307d">
-<img width="179" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/3feebb83-e0e7-4506-9896-4805d3da3487">
-<img width="180" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/69033026-687b-4836-b284-eef3c1d3edf3">
-<img width="179" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/244e2d23-aac9-44a1-88f9-2ad54e7ad311">
-<img width="178" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/399784bb-c056-4921-b1be-d39af19341da">
-<img width="231" alt="CleanShot 2023-05-16 at 10 38 34@2x" src="https://github.com/zzinx58/Project_test1/assets/77034104/6242ad9e-1ab5-4eb7-9de0-3d9cf05601d7">
-<img width="225" alt="CleanShot 2023-05-16 at 10 39 04@2x" src="https://github.com/zzinx58/Project_test1/assets/77034104/e723fc17-22fe-413d-af1a-2443a3dd0e47">
-<img width="179" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/8801e96f-9a56-458f-8cdb-8e909f263880">
-<img width="191" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/e433d278-3684-44a7-90c4-8a4e4f680fc2">
-<img width="191" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/cd2833cc-b2fe-4950-976d-fb0b1cb64ca1">
-<img width="151" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/712c5c1b-29cc-4149-8401-49fea366b105">
-<img width="194" alt="CleanShot 2023-05-16 at 10 39 44@2x" src="https://github.com/zzinx58/Project_test1/assets/77034104/ff0fcf0b-cce2-461f-9047-a028d68d6186">
-<img width="267" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/243633c0-7057-47cd-9843-e0483a5cb137">
-<img width="302" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/3c8e331d-48f5-48d5-8ade-e18e0d02b9e8">
-<img width="162" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/d9f930c7-5829-4569-91a8-2b85d7e4af31">
-<img width="165" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/1fb8506e-7b45-48b3-a439-987797d8c528">
+<img width="180" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/634c300e-b66e-4be9-8ec9-ff519ff09a6f">
+<img width="179" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/6a04730c-ba48-4d20-bfc5-dc12dc375aff">
+<img width="178" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/7cb523d8-3c48-42a2-8621-a5600f75c2a4">
+<img width="178" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/fc20a9c0-a59e-4b0f-84c4-4f63bb67605e">
+<img width="174" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/b7216c2f-4fcd-45c7-98c0-14f7a4e8f7c9">
+<img width="179" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/cc21b768-871c-44db-a55d-5aeb80331ed1">
+<img width="191" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/87b0416a-2ef2-43f4-a876-0d3e3399e19d">
+<img width="191" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/5bbb1512-85da-4f35-a4df-941fc66008d3">
+<img width="151" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/5485c30b-1abd-4d6c-ab9a-4eec6ce9a58c">
+<img width="149" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/010dbddf-45ba-4884-a25e-9ffa58a1d152">
+<img width="162" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/bb78b6e8-3a2e-4f2e-941a-e6b7b676617c">
+<img width="165" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/7d71c131-f2b6-4262-b1d9-e1d88b914d77">
+<img width="267" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/f24ed66e-93f4-49bd-ba0e-b26dfeae8827">
+<img width="302" alt="image" src="https://github.com/zzinx58/Project_test1/assets/77034104/53055466-d4cc-4ab1-a953-aba7b750a95a">
