@@ -1,0 +1,9 @@
+{
+  "prettier.enable": true,
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "scss.lint.unknownAtRules": "warning",
+  "vue.codeActions.enabled": false,
+}

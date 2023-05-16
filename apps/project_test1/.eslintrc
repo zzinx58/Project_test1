@@ -1,0 +1,10 @@
+{
+    "extends": [
+        "@antfu"
+        // ,"@unocss"
+    ]
+    // "rules": {
+    //     "@unocss/order": 1,
+    //     "@unocss/order-attributify": 1
+    // }
+}

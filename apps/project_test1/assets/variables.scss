@@ -1,0 +1,11 @@
+$header-height: 64px;
+
+:root {
+    --header-height: #{$header-height};
+    --link-color: #3370ff;
+}
+body {
+    transition: background-color .25s, color .25s;
+    color: var(--color-text);
+    background-color: var(--color-body);
+  }

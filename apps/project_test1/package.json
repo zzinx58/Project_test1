@@ -1,0 +1,30 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "dependencies": {
+    "@formkit/auto-animate": "1.0.0-beta.6",
+    "eslint": "^8.39.0",
+    "normalize.css": "^8.0.1",
+    "pinia": "^2.0.35"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.38.5",
+    "@iconify-json/carbon": "^1.1.16",
+    "@iconify-json/mdi": "^1.1.50",
+    "@types/node": "^18",
+    "@unocss/nuxt": "^0.51.8",
+    "@vite-pwa/nuxt": "^0.0.7",
+    "nuxt": "^3.4.2",
+    "sass": "^1.62.1",
+    "typescript": "^5.0.4"
+  }
+}
